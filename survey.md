@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: Red
+Favorite food: Redbull
+Favorite musician/band:Red Hot Chili Peppers
+Favorite movie: Red
+Requested grade in the course:255 
